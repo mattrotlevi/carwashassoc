@@ -1,0 +1,19 @@
+.jumbotron{
+
+	background-color: #609dff !important;
+
+}
+
+.btn{
+	background-color: white !important;
+}
+
+.btn:hover{
+	background-color: blue !important;
+	color: white !important;
+}
+
+
+.footer{
+	background-color: #609dff;
+}
