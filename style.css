@@ -13,6 +13,17 @@
 	color: white !important;
 }
 
+a[href^="mailto"]{
+	color: white;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+fa fa-linkedin {
+		color:white
+}
 
 .footer{
 	background-color: #609dff;
