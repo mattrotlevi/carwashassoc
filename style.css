@@ -28,3 +28,7 @@ fa fa-linkedin {
 .footer{
 	background-color: #609dff;
 }
+
+.invert {
+	filter: invert(100%);
+}
